@@ -1,2 +1,2 @@
 # community-detection
-final project for 416a, analysis of network data
+for the project: Comparison of Community Detection Algorithms on Real World Social Networks
